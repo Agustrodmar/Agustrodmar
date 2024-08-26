@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Agustrodmar's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustrodmar)](https://github.com/agustrodmar/github-readme-stats)
+
 <!--
 **agustrodmar/agustrodmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
