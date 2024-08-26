@@ -1,13 +1,13 @@
 ## Agustrodmar here. Nice to meet you! 👋
 
 
-## Projects?
+## Projects ❤️
 
-I'm currently working in https://www.linkedin.com/company/netcheck/mycompany/ as a back-end developer.
+I'm currently working at [NetCheck](https://www.linkedin.com/company/netcheck/mycompany/) as a back-end developer.
 
 I'm also into projects as a freelance. 
 
-We could work together 🌱. Reach me https://www.linkedin.com/in/agustin-rodriguez-marquez-53886a137/?locale=en_US
+We could work together 🌱. [Reach me](https://www.linkedin.com/in/agustin-rodriguez-marquez-53886a137/?locale=en_US)
 
 <b>
   
