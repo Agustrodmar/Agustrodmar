@@ -1,11 +1,18 @@
 ## Agustrodmar here. Nice to meet you! 👋
 
+
+## Projects?
+
+I'm currently working in https://www.linkedin.com/company/netcheck/mycompany/ as a back-end developer.
+
+I'm also into projects as a freelance. 
+
 We could work together 🌱. Reach me https://www.linkedin.com/in/agustin-rodriguez-marquez-53886a137/?locale=en_US
 
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/agustrodmar"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,kotlin,bots,php"> </a> </p>
+<p align="left"> <a href="https://github.com/agustrodmar"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,kotlin,swift,java,c#,php"> </a> </p>
 
 
 ## My Stats:
