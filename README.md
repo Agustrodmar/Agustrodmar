@@ -34,7 +34,7 @@ We could work together 🌱. Reach me https://www.linkedin.com/in/agustin-rodrig
 
 <b>
   
-##⚡Fun fact:
+⚡Fun fact:
   I once wrote a piece of code so perfect, it fixed itself. True story (if you ignore the 42 attempts before that).
 
 <!--
