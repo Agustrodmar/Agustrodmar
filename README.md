@@ -13,7 +13,7 @@ We could work together 🌱. [Reach me](https://www.linkedin.com/in/agustin-rodr
   
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/agustrodmar"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,figma,firebase,css,html,js,androidstudio,kotlin,gradle,java,spring,postman,cs,unity,phpstorm"> </a> </p>
+<p align="left"> <a href="https://github.com/agustrodmar"><img src="https://skillicons.dev/icons?i=mysql,github,figma,firebase,css,html,js,androidstudio,kotlin,gradle,java,spring,postman,cs,phpstorm"> </a> </p>
 
 <br>
   
