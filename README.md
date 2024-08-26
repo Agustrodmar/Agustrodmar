@@ -1,13 +1,29 @@
-## Hi there 👋
+## Agustrodmar here. Nice to meet you! 👋
+
+We could work together 🌱. Reach me https://www.linkedin.com/in/agustin-rodriguez-marquez-53886a137/?locale=en_US
+
 
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/agustrodmar"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,kotlin,bots,php"> </a> </p>
 
+
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=agustrodmar&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
+
+## Activity On GitHub
+
+<p align="center">
+  <a href="https://github.com/agustrodmar">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=agustrodmar&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+
+##⚡Fun fact:
+  I once wrote a piece of code so perfect, it fixed itself. True story (if you ignore the 42 attempts before that).
 
 <!--
 **agustrodmar/agustrodmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
