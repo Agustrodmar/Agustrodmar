@@ -9,23 +9,21 @@ I'm also into projects as a freelance.
 
 We could work together 🌱. Reach me https://www.linkedin.com/in/agustin-rodriguez-marquez-53886a137/?locale=en_US
 
-
-
-
+<b>
+  
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/agustrodmar"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,kotlin,swift,java,c#,php"> </a> </p>
 
-
-
-
+<b>
+  
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=agustrodmar&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-
-
+<b>
+  
 ## Activity On GitHub
 
 <p align="center">
@@ -34,6 +32,8 @@ We could work together 🌱. Reach me https://www.linkedin.com/in/agustin-rodrig
 </a> 
 </p>
 
+<b>
+  
 ##⚡Fun fact:
   I once wrote a piece of code so perfect, it fixed itself. True story (if you ignore the 42 attempts before that).
 
