@@ -9,7 +9,7 @@ I'm also into projects as a freelance.
 
 We could work together 🌱. [Reach me](https://www.linkedin.com/in/agustin-rodriguez-marquez-53886a137/?locale=en_US)
 
-[About me] (https://agusrmarquezportfolio.netlify.app/) 🔭
+[About me](https://agusrmarquezportfolio.netlify.app/) 🔭
 
 <br>
   
